@@ -1,0 +1,16 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 9, 2016, 10:57:08 AM
+    Author     : steven.vandenberghe
+*/
+section:nth-child(odd), header, footer {
+    background-color: #dff0d8;
+    border-top: #d6e9c6;
+    border-bottom: #d6e9c6;
+}
+.navbar-brand {padding-top: 10px; padding-bottom: 10px} /*vdab logo is te hoog*/
+.navbar {margin-bottom: 0}
