@@ -14,3 +14,7 @@ section:nth-child(odd), header, footer {
 }
 .navbar-brand {padding-top: 10px; padding-bottom: 10px} /*vdab logo is te hoog*/
 .navbar {margin-bottom: 0}
+h2 .glyphicon {
+    font-size: 0.8em;
+    margin-right: 0.4em;
+}
